@@ -65,7 +65,7 @@ Once our pip3 is installed, we can install pylint.
 **Linux**
 Use this command<pre>sudo pip3 install pylint</pre>
 
-**Windows**
+**Windows**<br>
 Use this command<pre>C:\Program Files\Python36\python" -m pip install pylint</pre>
 
 **Mac**
