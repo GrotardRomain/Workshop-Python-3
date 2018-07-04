@@ -13,6 +13,7 @@ First we need an IDE (Atom, VSCode, Sublime Text, PyCharm, etc...) and Python in
 **How do I check if Python is installed?**
 
 **Linux**
+
 For Linux users, don't worry Python2 and Python3 are installed, the command to check if Python is installed on Linux is this one(Look at the terminal screenshot)
 
 ![logo](img/python-versions.png)
