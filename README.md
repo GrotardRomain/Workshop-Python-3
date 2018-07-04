@@ -18,10 +18,12 @@ For Linux users, don't worry Python2 and Python3 are installed, the command to c
 ![logo](img/python-versions.png)
 
 **Windows**
+
 For Windows users, Python isn't installed by default, so be sure to get the
 [installer from python.org](https://www.python.org/downloads/)
 
 **Mac**
+
 For Mac users, you will have Python2 pre-installed, but here we need Python3. Follow [this link](http://docs.python-guide.org/en/latest/starting/install3/osx/) to install Python3 on your machine.
 
 **Can I start coding Python?**
@@ -29,12 +31,14 @@ For Mac users, you will have Python2 pre-installed, but here we need Python3. Fo
 Well you could yes, but It's better to install some extensions on our IDE (VSCode for me, Atom works too).
 
 **Extensions VSCode**
+
 VSCode extensions to install:
 
 - [Python extension from Microsoft](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
 - [Python extension pack](https://marketplace.visualstudio.com/items?itemName=fabioz.vscode-pydev)
 
 **Extensions Atom**
+
 Atom extensions to install:
 
 - [linter-flake8](https://atom.io/packages/linter-flake8)
@@ -45,17 +49,21 @@ One we have the extensions installed, let's install the pip3, Python3's package 
 Why we need pylint? Well our IDE is great, but we can also code directly on a terminal and thanks to pylint we'll know what's wrong.
 
 **Install pip3**
+
 Here we will install pip3 in order to after instal pylint and get ready for start to code in Python3.
 
 **Linux**
+
 Run this command to install pip3 on linux.
 <pre>sudo apt-get -y install python3-pip</pre>
 
 **Windows**
+
 On Windows is different, follow this tutorial.
 [How to install pip3 on windows](https://matthewhorne.me/how-to-install-python-and-pip-on-windows-10/)
 
 **Mac**
+
 On Mac it's different too, follow this tutorial.
 [How to install pip on Mac](https://itsevans.com/install-pip-osx/)
 
@@ -63,12 +71,15 @@ On Mac it's different too, follow this tutorial.
 Once our pip3 is installed, we can install pylint.
 
 **Linux**
+
 Use this command<pre>sudo pip3 install pylint</pre>
 
 **Windows**
+
 Use this command<pre>C:\Program Files\Python36\python" -m pip install pylint</pre>
 
 **Mac**
+
 Use this command<pre>sudo easy_install pip</pre>
 
 And now we are ready to start coding with Python3.
@@ -81,6 +92,7 @@ And now we are ready to start coding with Python3.
 <summary>Get started with Python3</summary>
 
 **Python Basics**
+
 Here we will learn some basics of Python.
 
     Lists
