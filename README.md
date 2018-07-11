@@ -102,6 +102,8 @@ Here we will learn some basics of Python.
     Classes
     String substitution and string formatting
 
+My main goal is to teach the Python Classes, because they are really important in Python3, and with good understanding of classes on Python, it's a really strong part of Python.
+
 </details>
 
 <details>
