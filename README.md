@@ -102,19 +102,17 @@ Here we will learn some basics of Python.
     Classes
     String substitution and string formatting
 
+My main goal is to teach the Python Classes, because they are really important in Python3, and with good understanding of classes on Python, it's a really strong part of Python.
+
 </details>
 
 <details>
 
-<summary>Cool things we can do with Python3
+<summary>Now that you know the base, go explore by yourself
 </summary>
 
-Allright now that you know how classes, functions and string subsitution works. Let's make a function to send emails, to different persons and in general it's like a
+Now that you know how Classes, String substitution, Lists and Tuples work, the Python basics, you can go for yourself and go deep in Python.
 
-``` php
-mailto();
-```
-
-function in PHP.
+    #HappyCoding
 
 </details>
